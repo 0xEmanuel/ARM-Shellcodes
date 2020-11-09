@@ -1,2 +1,2 @@
 # ARM-Shellcodes
-Some ARM shell codes I wrote when I started learning ARM assembly
+Some basic ARM shellcodes I wrote during my studies. Can be used for example for buffer overflow vulnerabilities.
